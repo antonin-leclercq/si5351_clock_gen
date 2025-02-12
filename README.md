@@ -4,7 +4,7 @@ This is a basic example program to use the Si5351 programmable clock generator. 
 Communication and configuration loading is done through the I²C protocol. <br>
 This code is written for an STM32F030 MCU but can be adapted to any other MCU with I²C capabilities. <br>
 In this example program, output CLK0 of the Si5351 module generates a 300kHz clock. <br>
-![Si5351 Module](http://github.com/antonin-leclercq/si5351_clock_gen/si5351_image.jpg)
+![Si5351 Module](./si5351_image.jpg)
 ### Pin connections
 | STM32F030 Pin | Si5351 Pin |
 |---------------|------------|
