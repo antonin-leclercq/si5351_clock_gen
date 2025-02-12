@@ -1,0 +1,7 @@
+.git
+.settings
+Debug
+.cproject
+.project
+si5351_clock_gen Debug.launch
+Si5351.pdf
